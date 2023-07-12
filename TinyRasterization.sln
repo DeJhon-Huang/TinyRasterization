@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TinyRasterization", "TinyRasterization\TinyRasterization.vcxproj", "{310624C7-E51D-4D95-B3EA-57C9B19F3096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{310624C7-E51D-4D95-B3EA-57C9B19F3096}.Debug|x64.ActiveCfg = Debug|x64
+		{310624C7-E51D-4D95-B3EA-57C9B19F3096}.Debug|x64.Build.0 = Debug|x64
+		{310624C7-E51D-4D95-B3EA-57C9B19F3096}.Debug|x86.ActiveCfg = Debug|Win32
+		{310624C7-E51D-4D95-B3EA-57C9B19F3096}.Debug|x86.Build.0 = Debug|Win32
+		{310624C7-E51D-4D95-B3EA-57C9B19F3096}.Release|x64.ActiveCfg = Release|x64
+		{310624C7-E51D-4D95-B3EA-57C9B19F3096}.Release|x64.Build.0 = Release|x64
+		{310624C7-E51D-4D95-B3EA-57C9B19F3096}.Release|x86.ActiveCfg = Release|Win32
+		{310624C7-E51D-4D95-B3EA-57C9B19F3096}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EA0D1F4-74D2-4335-8732-D21713A438FB}
+	EndGlobalSection
+EndGlobal
